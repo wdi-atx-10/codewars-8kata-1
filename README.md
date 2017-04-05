@@ -22,6 +22,12 @@ In this one you will want to find the youngest and oldest person in a group, the
 
 After you have completed all these challenges then take a screen shot showing your completion and then push back up to the repo.
 
+## CHALLENGE: Fizz Buzz Cuckoo Clock
+
+https://www.codewars.com/kata/fizz-buzz-cuckoo-clock/train/javascript
+
+This is a mixture of both clock functions and Fizz Buzz
+
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
