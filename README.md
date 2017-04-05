@@ -23,4 +23,9 @@ In this one you will want to find the youngest and oldest person in a group, the
 After you have completed all these challenges then take a screen shot showing your completion and then push back up to the repo.
 
 
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+
+
 
