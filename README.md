@@ -14,4 +14,13 @@ https://www.codewars.com/kata/lario-and-muigi-pipe-problem/train/javascript
 
 In order to solve this you need to find the lowest number in an array, the highest number in the array, and then fill all the numbers inbetween by incrementing by 1 each time. 
 
+## Find the Difference in Age between Oldest and Youngest Family Members
+
+https://www.codewars.com/kata/find-the-difference-in-age-between-oldest-and-youngest-family-members/train/javascript
+
+In this one you will want to find the youngest and oldest person in a group, then output a string with their ages and the age difference between them. 
+
+After you have completed all these challenges then take a screen shot showing your completion and then push back up to the repo.
+
+
 
